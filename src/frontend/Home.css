@@ -1,0 +1,18 @@
+.front-title {
+  font-size: 1.25rem;
+  line-height: 1.5625rem;
+  letter-spacing: 1px;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 45px;
+}
+
+.front-description {
+  font-size: 1.125rem;
+  font-weight: 300;
+  line-height: 1.75;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  height: 85px;
+  text-transform: uppercase;
+}
